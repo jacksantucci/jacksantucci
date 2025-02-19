@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub
 
 <!--
 **jacksantucci/jacksantucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a political scientist specializing in electoral systems, subnational politics, and voting behavior. This page is for hosting replication materials not otherwise required by journals. Those repositories are pinned below, and I am still working on others. Additional replication materials can be found via links in my CV at <a href="https://www.jacksantucci.com" target="_blank">jacksantucci.com</a>. Please check back or feel free to e-mail me.
